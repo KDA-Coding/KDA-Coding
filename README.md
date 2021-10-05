@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KDA-Coding
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development and Software Development
 - 🌱 I’m currently learning C#, Unity, XAML, Blender, and NoesisGUI
 - 💞️ I’m looking to collaborate on Game Jams or Front-End projects to improve my knowledge and abilities as a developer
 - 📫 You can reach me at kirk.allgeyer@gmail.com
