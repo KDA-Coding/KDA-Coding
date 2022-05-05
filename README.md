@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Games, Back-End or Front-End projects to improve my knowledge and abilities as a developer
 - 📫 You can reach me at kirk.allgeyer@gmail.com
 
-I'm a Software Engineer. I hope to take the skills I've learned from ECPI, skills I sought out and studied independently, and new skills gained from collaborative projects or work to build and launch my own game development company.
+I'm a Software Engineer. I hope to take the skills I've learned from college, skills I sought out and studied independently, and new skills gained from collaborative projects or work to build and launch my own game development company.
