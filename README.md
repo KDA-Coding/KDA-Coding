@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kirk. You can call me Captain if it helps.</h1>
-<h3 align="center">Entrepreneur, Game Developer, App Developer</h3>
+<h3 align="center"> Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kda-coding&label=Profile%20views&color=0e75b6&style=flat" alt="kda-coding" /> </p>
 
 <p align="left"> <a href="https://twitter.com/captain_kirk030" target="blank"><img src="https://img.shields.io/twitter/follow/captain_kirk030?logo=twitter&style=for-the-badge" alt="captain_kirk030" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Unity 3D**
 
 - 👨‍💻 All of my projects are available at [https://kdasite.wixsite.com/kirkallgeyer](https://kdasite.wixsite.com/kirkallgeyer)
 
